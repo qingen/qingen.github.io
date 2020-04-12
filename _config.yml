@@ -213,10 +213,10 @@ subscribe_rss: /feed.xml
 side_bar_repo_limit: 6 # Number of repos to show
 
 #Google Analytics
-analytics :
-provider : google
-  google :
-    tracking_id : 'UA-163306455-1'  # ex. UA-72165600-X
+#analytics :
+#provider : google
+#  google :
+#    tracking_id : 'UA-163306455-1'  # ex. UA-72165600-X
 
 
 # For about.html. Fell free to create your own!
@@ -236,12 +236,12 @@ comments_provider: gitalk
 #disqus:
 #    username: qingen
 # https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: qingen
-    repo: blog-comments
-    oauth:
-        client_id: 2ac37f73431466746e5f
-        client_secret: af111f1104cf3d6f78c25dcd03abda62234c2a06
+#gitment:
+#    owner: qingen
+#    repo: blog-comments
+#    oauth:
+#        client_id: 2ac37f73431466746e5f
+#        client_secret: af111f1104cf3d6f78c25dcd03abda62234c2a06
 # https://github.com/gitalk/gitalk#install
 # https://github.com/settings/developers to get clientID and -Secret
 gitalk:
