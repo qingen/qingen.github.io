@@ -212,11 +212,11 @@ subscribe_rss: /feed.xml
 # Sidebar to show popular repo
 side_bar_repo_limit: 6 # Number of repos to show
 
-# Google Analytics
-# analytics :
-# provider : google
-#   google :
-#     tracking_id : ''  # ex. UA-72165600-X
+Google Analytics
+analytics :
+provider : google
+  google :
+    tracking_id : 'UA-163306455-1'  # ex. UA-72165600-X
 
 
 # For about.html. Fell free to create your own!
@@ -233,8 +233,8 @@ skill_mobile_app_keywords: [vuejs, hyhird app]
 comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com  # useless
-disqus:
-    username: qingen
+#disqus:
+#    username: qingen
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: qingen
@@ -250,4 +250,4 @@ gitalk:
     clientID: 2ac37f73431466746e5f
     clientSecret: af111f1104cf3d6f78c25dcd03abda62234c2a06
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : true
+#lazy_load_disqus : true
