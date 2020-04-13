@@ -233,15 +233,15 @@ skill_mobile_app_keywords: [vuejs, hyhird app]
 comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com  # useless
-#disqus:
-#    username: qingen
+disqus:
+    username: qingen
 # https://imsun.net/posts/gitment-introduction/
-#gitment:
-#    owner: qingen
-#    repo: blog-comments
-#    oauth:
-#        client_id: 2ac37f73431466746e5f
-#        client_secret: af111f1104cf3d6f78c25dcd03abda62234c2a06
+gitment:
+    owner: qingen
+    repo: blog-comments
+    oauth:
+        client_id: 2ac37f73431466746e5f
+        client_secret: af111f1104cf3d6f78c25dcd03abda62234c2a06
 # https://github.com/gitalk/gitalk#install
 # https://github.com/settings/developers to get clientID and -Secret
 gitalk:
@@ -250,4 +250,4 @@ gitalk:
     clientID: 2ac37f73431466746e5f
     clientSecret: af111f1104cf3d6f78c25dcd03abda62234c2a06
 # 在使用其它评论组件时可点击显示 Disqus
-#lazy_load_disqus : true
+lazy_load_disqus : true
