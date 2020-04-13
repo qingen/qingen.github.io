@@ -77,6 +77,7 @@ no-post-nav: true
 最后借一幅图片，和 Bob Dylan 的一句歌词，来结束这篇博客，希望与各位读者共勉，早日能通过自己的努力，达到苍穹之巅，Believe Yourself
 
 ![](/assets/images/2020/life/jiaotang01.JPG)
+>圣安多尼堂
 >一个人要仰望多少次，才能看见苍穹；一个人要倾听多少次，才能听见人们的呼喊
 
 Yes, and how many times must a man look up
