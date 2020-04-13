@@ -246,7 +246,8 @@ gitment:
 # https://github.com/settings/developers to get clientID and -Secret
 gitalk:
     owner: qingen
-    repo: blog-comments
+    admin: qingen
+    repo: qingen.github.io
     clientID: 2ac37f73431466746e5f
     clientSecret: af111f1104cf3d6f78c25dcd03abda62234c2a06
 # 在使用其它评论组件时可点击显示 Disqus
