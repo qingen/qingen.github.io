@@ -3,8 +3,7 @@ layout: post
 title: 关于此博客
 category: life
 tags: [life]
-excerpt: 瞎折腾，爱捣鼓，望传承
-no-post-nav: true
+excerpt: 瞎折腾，爱捣鼓，为传承
 ---
 
 ## 1.谁没彷徨过
@@ -78,10 +77,12 @@ no-post-nav: true
 
 ![](/assets/images/2020/life/jiaotang01.JPG)
 >圣安多尼堂
+>
 >一个人要仰望多少次，才能看见苍穹；一个人要倾听多少次，才能听见人们的呼喊
 
 Yes, and how many times must a man look up
 Before he can see the sky?
+
 Yes, and how many ears must one man have 
 Before he can hear people cry?
 
@@ -89,8 +90,8 @@ Blowin' In The Wind
 
 {% highlight java %}
 
-> 特此声明，本博客目前只是更新了2篇文章，其他都是原来博主的
+> **特此声明，本博客目前只是更新了2篇文章，其他都是原来博主的**
 
-> 此博客将记录我对技术的理解和部分生活的感悟，另外总结收集一些感兴趣的开源项目
+> **此博客将记录我对技术的理解和部分生活的感悟，另外总结收集一些感兴趣的开源项目**
 
 {% endhighlight %}
