@@ -11,7 +11,7 @@ permalink: /python
 <div class="row">
 
     <div class="col-md-12">
-
+    
         <ul id="posts-list">
             {% for post in site.posts %}
                 {% if post.category=='python'  or post.keywords contains 'Python' %}
@@ -25,10 +25,10 @@ permalink: /python
                 {% endif %}
             {% endfor %}
         </ul> 
-
+    
         <!-- Pagination -->
         {% include pagination.html %}
-
+    
         <!-- Comments -->
        <div class="comment">
          {% include comments.html %}
@@ -36,11 +36,12 @@ permalink: /python
     </div>
 
 </div>
+
 <script>
     $(document).ready(function(){
 
         // Enable bootstrap tooltip
         $("body").tooltip({ selector: '[data-toggle=tooltip]' });
-
+    
     });
 </script>
