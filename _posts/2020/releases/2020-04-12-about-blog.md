@@ -87,11 +87,3 @@ Yes, and how many ears must one man have
 Before he can hear people cry?
 
 Blowin' In The Wind
-
-{% highlight java %}
-
-> **特此声明，本博客目前只是更新了2篇文章，其他都是原来博主的**
-
-> **此博客将记录我对技术的理解和部分生活的感悟，另外总结收集一些感兴趣的开源项目**
-
-{% endhighlight %}
