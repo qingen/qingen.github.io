@@ -3,7 +3,7 @@ layout: post
 title: 站在食物链最顶端的男人--贝尔·格里尔斯
 category: life
 tags: [life]
-excerpt: 不必变得强壮，而是让内心强大。It's not always necessary to be strong, but to feel strong
+excerpt: It's not always necessary to be strong, but to feel strong
 lock: need
 ---
 
