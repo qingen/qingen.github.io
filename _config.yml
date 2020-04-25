@@ -116,10 +116,6 @@ navs:
         subLabel: Voice Print Recognition     
  
   -
-    href: /cartoon.html
-    label: Great Men
-    target: _self
-  -
     href: /spring-boot.html
     label: Eventful Years
     target: _self
@@ -139,7 +135,11 @@ navs:
         
       -
         subHref: /spring-cloud.html
-        subLabel: Cate     
+        subLabel: Cate    
+  -
+    href: /cartoon.html
+    label: Great Men
+    target: _self 
  
   -
     href: /archives.html
