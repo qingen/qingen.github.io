@@ -11,7 +11,7 @@ subtitle: 快乐工作，认真生活 :)
 name: 呐喊的少年 
 email: qingenz123@126.com
 description: 本站是呐喊的少年的技术分享博客。内容涵盖工作方面：人工智能，语音识别，声纹识别，工程框架，个人生活兴趣方面：风流人物，峥嵘岁月，思想沉淀等。
-keywords: 人工智能，深度学习，机器学习，语音识别，声纹识别，音乐，旅行，读书，AI，speech recognition，speaker recognition，deep learning，machine learning，music，guitar，tour，books, cate
+keywords: 人工智能，深度学习，机器学习，语音识别，声纹识别，音乐，旅行，读书，美食，AI，speech recognition，speaker recognition，deep learning，machine learning，music，guitar，tour，books, cate
 encoding: "utf-8"
 favicon: favicon.ico
 
@@ -94,35 +94,35 @@ navs:
     label: Home
 
   -
-    href: /archives.html
+    href: /ai.html
     label: Artificial Intelligence
     target: _self
     subnav:
 
       -
-        subHref: /archives.html
+        subHref: /dl.html
         subLabel: Deep Learning
 
       -
-        subHref: /archives.html
+        subHref: /ml.html
         subLabel: Machine Learning
         
       -
-        subHref: /archives.html
+        subHref: /asr.html
         subLabel: Speech Recognition
         
       -
-        subHref: /archives.html
+        subHref: /vpr.html
         subLabel: Voice Print Recognition     
  
   -
-    href: /archives.html
+    href: /life.html
     label: Eventful Years
     target: _self
     subnav:
 
       -
-        subHref: /archives.html
+        subHref: /reading.html
         subLabel: Reading
 
       -
@@ -188,7 +188,7 @@ classes:
 
   -
     href: /cartoon.html
-    name: 不会笑青年
+    name: 娱乐八卦
     describe: 内心沉稳 ，放荡不羁。
 
   -
@@ -224,7 +224,7 @@ skill_software_keywords: [Java, MySQL, Oracle, Design Patterns]
 skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
 skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, NodeJS, ExpressJS, MongoDB, Redis, PHP,  Boostrap]
 skill_mobile_app_keywords: [vuejs, hyhird app]
-skill_ai_keywords:[speech recognition, speaker recognition, machine learning, deep learning]
+skill_ai_keywords: [speech recognition, speaker recognition, machine learning, deep learning]
 
 
 # ---------------- #

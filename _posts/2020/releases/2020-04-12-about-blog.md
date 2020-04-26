@@ -2,7 +2,7 @@
 layout: post
 title: 关于此博客
 category: life
-tags: [life]
+tag: life
 excerpt: 瞎折腾，爱捣鼓，为传承
 ---
 

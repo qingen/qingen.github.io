@@ -1,11 +1,11 @@
 ---
 layout: page
-title: The ideal of life is to live ideally!
-titlebar: life
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; reading music tour cate
-menu: life
+title: Quality of life begins with reading
+titlebar: reading
+subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; read more, do more, be more
+menu: reading
 css: ['blog-page.css']
-permalink: /life
+permalink: /reading
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ permalink: /life
     
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='life' %}
+                {% if post.tag=='reading' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

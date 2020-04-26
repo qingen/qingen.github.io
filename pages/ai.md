@@ -1,11 +1,11 @@
 ---
 layout: page
-title: The ideal of life is to live ideally!
-titlebar: life
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; reading music tour cate
-menu: life
+title: Artificial Intelligence
+titlebar: ai
+subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp; Take you into artificial intelligence
+menu: arch
 css: ['blog-page.css']
-permalink: /life
+permalink: /ai
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ permalink: /life
     
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='life' %}
+                {% if post.category=='ai' or post.keywords contains 'CTC构' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
