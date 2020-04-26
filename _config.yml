@@ -94,51 +94,51 @@ navs:
     label: Home
 
   -
-    href: /cartoon.html
+    href: /
     label: Artificial Intelligence
     target: _self
     subnav:
 
       -
-        subHref: /spring-boot.html
+        subHref: /
         subLabel: Deep Learning
 
       -
-        subHref: /spring-cloud.html
+        subHref: /
         subLabel: Machine Learning
         
       -
-        subHref: /spring-cloud.html
+        subHref: /
         subLabel: Speech Recognition
         
       -
-        subHref: /spring-cloud.html
+        subHref: /
         subLabel: Voice Print Recognition     
  
   -
-    href: /spring-boot.html
+    href: /
     label: Eventful Years
     target: _self
     subnav:
 
       -
-        subHref: /spring-boot.html
+        subHref: /
         subLabel: Reading
 
       -
-        subHref: /spring-cloud.html
+        subHref: /
         subLabel: Music
         
       -
-        subHref: /spring-cloud.html
+        subHref: /
         subLabel: Tour
         
       -
-        subHref: /spring-cloud.html
+        subHref: /
         subLabel: Cate    
         
   -
-    href: /cartoon.html
+    href: /
     label: Great Men
     target: _self 
  
@@ -224,6 +224,7 @@ skill_software_keywords: [Java, MySQL, Oracle, Design Patterns]
 skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
 skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, NodeJS, ExpressJS, MongoDB, Redis, PHP,  Boostrap]
 skill_mobile_app_keywords: [vuejs, hyhird app]
+skill_ai_keywords:[speech recognition, speaker recognition, machine learning, deep learning]
 
 
 # ---------------- #
