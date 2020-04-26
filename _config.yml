@@ -94,51 +94,51 @@ navs:
     label: Home
 
   -
-    href: /
+    href: /archives.html
     label: Artificial Intelligence
     target: _self
     subnav:
 
       -
-        subHref: /
+        subHref: /archives.html
         subLabel: Deep Learning
 
       -
-        subHref: /
+        subHref: /archives.html
         subLabel: Machine Learning
         
       -
-        subHref: /
+        subHref: /archives.html
         subLabel: Speech Recognition
         
       -
-        subHref: /
+        subHref: /archives.html
         subLabel: Voice Print Recognition     
  
   -
-    href: /
+    href: /archives.html
     label: Eventful Years
     target: _self
     subnav:
 
       -
-        subHref: /
+        subHref: /archives.html
         subLabel: Reading
 
       -
-        subHref: /
+        subHref: /archives.html
         subLabel: Music
         
       -
-        subHref: /
+        subHref: /archives.html
         subLabel: Tour
         
       -
-        subHref: /
+        subHref: /archives.html
         subLabel: Cate    
         
   -
-    href: /
+    href: /archives.html
     label: Great Men
     target: _self 
  
