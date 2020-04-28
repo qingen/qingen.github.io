@@ -2,7 +2,7 @@
 layout: page
 title: Deep Learning
 titlebar: dl
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; Speaker Verification, Identification 。。。
+subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; I cannot explain it, but it works well
 menu: dl
 css: ['blog-page.css']
 permalink: /dl
