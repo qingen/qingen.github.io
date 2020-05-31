@@ -1,20 +1,20 @@
 ---
 layout: page
-title: GitChat 专栏推荐课程
-titlebar: gitchat
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 程序员的分享天地
-menu: gitchat
+title: Pytorch 专栏
+titlebar: pytorch
+subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 深度学习框架分享
+menu: pytorch
 css: ['blog-page.css']
-permalink: /gitchat
+permalink: /pytorch
 ---
 
 <div class="row">
 
     <div class="col-md-12">
-
+    
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='gitchat' %}
+                {% if post.category=='pytorch' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
@@ -25,10 +25,10 @@ permalink: /gitchat
                 {% endif %}
             {% endfor %}
         </ul> 
-
+    
         <!-- Pagination -->
         {% include pagination.html %}
-
+    
         <!-- Comments -->
        <div class="comment">
          {% include comments.html %}
@@ -41,6 +41,6 @@ permalink: /gitchat
 
         // Enable bootstrap tooltip
         $("body").tooltip({ selector: '[data-toggle=tooltip]' });
-
+    
     });
 </script>
