@@ -10,6 +10,9 @@ keywords: deep learning
 
 
 ## 写在前面
+打算深入学习下pytorch，看到网上一些高质量的资料，特地记录下来，温故而知新
+
+## 背景
 
 你可能已经接触过编程，并开发过一两款程序。同时你可能读过关于深度学习或者机器学习的铺天盖地的报道，尽管很多时候它们被赋予了更广义的名字：人工智能。实际上，或者说幸运的是，大部分程序并不需要深度学习或者是更广义上的人工智能技术。例如，如果我们要为一台微波炉编写一个用户界面，只需要一点儿工夫我们便能设计出十几个按钮以及一系列能精确描述微波炉在各种情况下的表现的规则。再比如，假设我们要编写一个电子邮件客户端。这样的程序比微波炉要复杂一些，但我们还是可以沉下心来一步一步思考：客户端的用户界面将需要几个输入框来接受收件人、主题、邮件正文等，程序将监听键盘输入并写入一个缓冲区，然后将它们显示在相应的输入框中。当用户点击“发送”按钮时，我们需要检查收件人邮箱地址的格式是否正确，并检查邮件主题是否为空，或在主题为空时警告用户，而后用相应的协议传送邮件。
 
@@ -187,7 +190,7 @@ keywords: deep learning
 
 [23]《Dive into Deep Learning》  Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola
 
-[24]《Dive into Deep Learning》中文翻译  https://github.com/ShusenTang/Dive-into-DL-PyTorch
+[24]《Dive into Deep Learning》  https://github.com/ShusenTang/Dive-into-DL-PyTorch
 
 
 
