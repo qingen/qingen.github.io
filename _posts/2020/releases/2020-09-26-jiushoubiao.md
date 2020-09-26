@@ -3,8 +3,8 @@ layout: post
 title: 手表与酒
 category: life
 tags: [life]
-copyright: flyever
-no-post-nav: true
+copyright: tip
+no-post-nav: false
 excerpt: 生活琐事
 lock: need
 ---
