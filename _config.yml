@@ -8,7 +8,7 @@
 # Site settings
 title:  呐喊的少年
 subtitle: 快乐工作，认真生活 :)
-name: 呐喊的少年 
+name: 呐喊的少年
 email: qingenz123@126.com
 description: 本站是呐喊的少年的技术分享博客。内容涵盖工作方面：人工智能，语音识别，语音合成，声纹识别，工程框架，个人生活兴趣方面：风流人物，峥嵘岁月，思想沉淀等。
 keywords: 人工智能，深度学习，机器学习，语音识别，声纹识别，音乐，旅行，读书，美食，AI，speech recognition，speech synthesis，speaker recognition，deep learning，machine learning，music，guitar，tour，books, cate
@@ -59,7 +59,7 @@ menus:
   -
     href: /money.html
     label: 挣钱
-    target: _self   
+    target: _self
 
   -
     href: /it.html
@@ -106,15 +106,15 @@ navs:
       -
         subHref: /ml.html
         subLabel: Machine Learning
-        
+
       -
         subHref: /asr.html
         subLabel: Speech Recognition
-        
+
       -
         subHref: /vpr.html
-        subLabel: Voice Print Recognition     
- 
+        subLabel: Voice Print Recognition
+
   -
     href: /life.html
     label: Eventful Years
@@ -128,20 +128,20 @@ navs:
       -
         subHref: /archives.html
         subLabel: Music
-        
+
       -
         subHref: /archives.html
         subLabel: Tour
-        
+
       -
         subHref: /archives.html
-        subLabel: Cate    
-        
+        subLabel: Cate
+
   -
-    href: /archives.html
+    href: /god.html
     label: Great Men
-    target: _self 
- 
+    target: _self
+
   -
     href: /archives.html
     label: Archives
@@ -154,7 +154,7 @@ labels:
 
   -
     href: /payment.html
-    label: Pay     
+    label: Pay
     target: _self
 
   -
@@ -174,7 +174,7 @@ labels:
 
   -
     href: /open-source.html
-    label: Code  
+    label: Code
     target: _blank
 
   -
